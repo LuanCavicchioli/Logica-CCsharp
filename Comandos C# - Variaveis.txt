@@ -17,7 +17,7 @@ class Program
     int idade = 40;    
     string = "Luan";
     double valor = 10.50;
-    char = 'A';
+    char = "A";
     bool status = true;
     
     
